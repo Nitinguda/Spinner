@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Spinner</string>
+
+
+    <string-array name="spinnerArray">
+        <item>Center</item>
+    <item>Left Wing</item>
+    <item>Right Wing</item>
+    <item>Forward</item>
+    <item>Mid Field</item>
+    </string-array>
+</resources>
